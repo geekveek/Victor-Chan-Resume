@@ -1,0 +1,80 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="840" measuredH="640" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="40" y="40" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wallet%20Portal%0Ahttp%3A//wallet.sg/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="336" y="129" w="-1" h="-1" measuredW="472" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Campaigns%26bm%3BCampaigns.bmml%26bm%3BCampaigns.bmml%26bm%3BCampaigns.bmml%2CRewards%26bm%3BRewards.bmml%26bm%3BRewards.bmml%26bm%3BRewards.bmml%2CReports%26bm%3BReports.bmml%26bm%3BReports.bmml%26bm%3BReports.bmml%2CMembers%26bm%3BMembers.bmml%26bm%3BMembers.bmml%26bm%3BMembers.bmml%2CTransactions%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml%2CAccount%26bm%3BAccount.bmml%26bm%3BAccount.bmml%26bm%3BAccount.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22296%2C89%2C382%2C117%22%20href%3D%22Campaigns.bmml%22%20alt%3D%22Campaigns%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22382%2C89%2C456%2C117%22%20href%3D%22Rewards.bmml%22%20alt%3D%22Rewards%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22456%2C89%2C525%2C117%22%20href%3D%22Reports.bmml%22%20alt%3D%22Reports%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22525%2C89%2C602%2C117%22%20href%3D%22Members.bmml%22%20alt%3D%22Members%22%20id%3D%221_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22602%2C89%2C697%2C117%22%20href%3D%22Transactions.bmml%22%20alt%3D%22Transactions%22%20id%3D%221_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22697%2C89%2C768%2C117%22%20href%3D%22Account.bmml%22%20alt%3D%22Account%22%20id%3D%221_5%22/%3E%0A</map>
+        <selectedIndex>5</selectedIndex>
+        <size>12</size>
+        <text>Campaigns%2C%20Rewards%2C%20Reports%2C%20Members%2C%20Transactions%2C%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="95" y="129" w="-1" h="-1" measuredW="62" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Wallet</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="95" y="172" w="728" h="427" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Account%20-%20Username%20/%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="157" y="214" w="221" h="312" measuredW="100" measuredH="275" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>39</rowHeight>
+        <size>14</size>
+        <text>Username%0ACurrent%20Password%0ANew%20Password%0ARepeat%20Password%0AEmail%20Address%0ASecurity%20Question%0ASecurity%20Answer</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="214" w="204" h="28" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="260" w="204" h="28" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="300" w="204" h="28" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="340" w="204" h="28" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="379" w="204" h="28" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="417" w="204" h="28" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="457" w="204" h="28" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="486" y="526" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Account%26bm%3BAccount.bmml%26bm%3BAccount.bmml%26bm%3BAccount.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22446%2C486%2C500%2C513%22%20href%3D%22Account.bmml%22%20alt%3D%22Account%22%20id%3D%2214%22/%3E</map>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

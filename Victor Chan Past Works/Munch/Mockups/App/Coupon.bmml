@@ -1,0 +1,118 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="322" measuredH="550" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhone" x="40" y="40" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="75" y="258" w="139" h="21" measuredW="119" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Present%20to%20Redeem</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="85" y="278" w="-1" h="-1" measuredW="120" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20Passbook</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="72" y="339" w="219" h="41" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mondays%20to%20Fridays%3A%209am%20to%2011am%2C%202pm%20to%205pm%3B%20Use%20in%202%20weeks</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="72" y="318" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Validity</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="72" y="380" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Terms%20and%20Conditions</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="72" y="401" w="219" h="59" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kool%20Tea%20reserves%20the%20right%20change%20or%20substitute%20this%20promotion%20at%20any%20time.%20While%20stocks%20lasts.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="73" y="246" w="145" h="70" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="219" y="246" w="70" h="70" measuredW="70" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="70" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="12">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="5" y="5" w="60" h="60" measuredW="220" measuredH="220" zOrder="1" locked="false" isInGroup="12">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <src>./assets/Wikipedia_mobile_en.svg.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="72" y="141" w="219" h="102" measuredW="219" measuredH="102" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Outlet-Coupons%26bm%3BOutlet-Coupons.bmml%26bm%3BOutlet-Coupons.bmml%26bm%3BOutlet-Coupons.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C101%2C251%2C203%22%20href%3D%22Outlet-Coupons.bmml%22%20alt%3D%22Outlet-Coupons%22%20id%3D%2213%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="219" h="100" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="13">
+          <controlProperties/>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="72" w="219" h="30" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="13">
+          <controlProperties>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="4" y="75" w="212" h="24" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="13">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="4" y="75" w="49" h="24" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="13">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>13576743</color>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="53" y="77" w="144" h="21" measuredW="134" measuredH="21" zOrder="3" locked="false" isInGroup="13">
+          <controlProperties>
+            <color>16777215</color>
+            <text>10%20redeems%20remaining</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="__group__" x="6" y="32" w="175" h="40" measuredW="175" measuredH="40" zOrder="5" locked="false" isInGroup="13">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="175" h="38" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="13">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>16777215</color>
+                <verticalScrollbar>false</verticalScrollbar>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="4" y="0" w="124" h="23" measuredW="115" measuredH="26" zOrder="1" locked="false" isInGroup="13">
+              <controlProperties>
+                <bold>true</bold>
+                <color>0</color>
+                <size>18</size>
+                <text>Free%20toppings</text>
+                <textOrientation>right</textOrientation>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="2" y="19" w="-1" h="-1" measuredW="155" measuredH="21" zOrder="2" locked="false" isInGroup="13">
+              <controlProperties>
+                <text>with%20your%20next%20Bubble%20Tea</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

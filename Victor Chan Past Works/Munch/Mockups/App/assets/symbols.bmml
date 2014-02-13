@@ -1,0 +1,12 @@
+<mockup version="1.0" skin="sketch" measuredW="380" measuredH="500" mockupW="320" mockupH="480">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="320" h="480" measuredW="320" measuredH="480" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPhone_Blank</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="320" h="480" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

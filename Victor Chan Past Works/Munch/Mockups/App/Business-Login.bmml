@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch" measuredW="774" measuredH="535" mockupW="320" mockupH="480">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="476" y="106" w="275" h="-1" measuredW="151" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>cloucard</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="496" y="267" w="234" h="33" measuredW="109" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Business-Scan%26bm%3BBusiness-Scan.bmml%26bm%3BBusiness-Scan.bmml%26bm%3BBusiness-Scan.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C212%2C276%2C245%22%20href%3D%22Business-Scan.bmml%22%20alt%3D%22Business-Scan%22%20id%3D%224%22/%3E</map>
+        <text>Start%20Your%20Day</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="496" y="187" w="234" h="-1" measuredW="90" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Staff%20Number</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="597" y="146" w="130" h="26" measuredW="89" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>for%20Businesses</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="496" y="225" w="234" h="-1" measuredW="68" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="484" y="503" w="258" h="26" measuredW="212" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Customer%20Support%3A%20+65%206543%207890</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="454" y="55" w="320" h="480" measuredW="320" measuredH="480" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#iPhone_Blank</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

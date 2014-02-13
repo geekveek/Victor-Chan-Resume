@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="840" measuredH="640" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="40" y="40" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wallet%20Portal%0Ahttp%3A//wallet.sg/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="336" y="129" w="-1" h="-1" measuredW="472" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Campaigns%26bm%3BCampaigns.bmml%26bm%3BCampaigns.bmml%26bm%3BCampaigns.bmml%2CRewards%26bm%3BRewards.bmml%26bm%3BRewards.bmml%26bm%3BRewards.bmml%2CReports%26bm%3BReports.bmml%26bm%3BReports.bmml%26bm%3BReports.bmml%2CMembers%26bm%3BMembers.bmml%26bm%3BMembers.bmml%26bm%3BMembers.bmml%2CTransactions%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml%2CAccount%26bm%3BAccount.bmml%26bm%3BAccount.bmml%26bm%3BAccount.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22296%2C89%2C382%2C117%22%20href%3D%22Campaigns.bmml%22%20alt%3D%22Campaigns%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22382%2C89%2C456%2C117%22%20href%3D%22Rewards.bmml%22%20alt%3D%22Rewards%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22456%2C89%2C525%2C117%22%20href%3D%22Reports.bmml%22%20alt%3D%22Reports%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22525%2C89%2C602%2C117%22%20href%3D%22Members.bmml%22%20alt%3D%22Members%22%20id%3D%221_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22602%2C89%2C697%2C117%22%20href%3D%22Transactions.bmml%22%20alt%3D%22Transactions%22%20id%3D%221_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22697%2C89%2C768%2C117%22%20href%3D%22Account.bmml%22%20alt%3D%22Account%22%20id%3D%221_5%22/%3E%0A</map>
+        <selectedIndex>3</selectedIndex>
+        <size>12</size>
+        <text>Campaigns%2C%20Rewards%2C%20Reports%2C%20Members%2C%20Transactions%2C%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="95" y="129" w="-1" h="-1" measuredW="62" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Wallet</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="126" y="239" w="665" h="333" measuredW="715" measuredH="145" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hLines>false</hLines>
+        <rowHeight>16</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <text>Name%20%5E%2C%20Age%20%5E%2C%20Gender%2C%20Visits%20%5Ev%2C%20Last%20Visit%20%5Ev%2C%20Points%5CrAccumulated%2C%20Points%5CrBalance%2C%20Offers%5CrPushed%2C%20Offers%5CrClaimed%2C%20Offers%5CrRedeemed%0AJames%20Tan%2C%2036%2C%20M%2C%203%2C%2017%20Oct%202012%2C%20103%2C%20103%2C%202%2C%200%2C%200%0AMary%20Lee%2C%20%3F%2C%20F%2C%202%2C%2016%20Aug%202012%2C%2055%2C%205%2C%201%2C%201%2C%200%0AChee%20Ter%20Bak%2C%2044%2C%20M%2C%2015%2C%2017%20Oct%202012%2C%201004%2C%20206%2C%2010%2C%205%2C%205%0AWin%20Dee%2C%2022%2C%20F%2C%201%2C%201%20Jan%202011%2C%2044%2C%2044%2C%2010%2C%201%2C%200%0ASun%20Ngee%2C%2027%2C%20M%2C%207%2C%201%20Jun%202012%2C%20643%2C%20111%2C%205%2C%204%2C%204%0ARei%20Nhee%2C%2033%2C%20F%2C%2011%2C%2025%20Jul%202012%2C%20766%2C%20521%2C%208%2C%207%2C%204%0A%7B20L%2C%200C%2C%200C%2C%200C%2C%200C%2C%200C%2C%200C%2C%200C%2C%200C%2C%200C%7D</text>
+        <vLines>true</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="126" y="199" w="144" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="730" y="197" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Export</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::FieldSet" x="95" y="172" w="728" h="427" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Members</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

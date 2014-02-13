@@ -1,0 +1,88 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="322" measuredH="550" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhone" x="40" y="40" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="218" y="146" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22178%2C106%2C248%2C133%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%2220%22/%3E</map>
+        <text>Sign%20out</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Canvas" x="72" y="183" w="145" h="70" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Paragraph" x="81" y="187" w="140" h="39" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>James%20*Tan*%0Ajames.tan@gmail.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="87" y="221" w="-1" h="-1" measuredW="120" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20Passbook</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="68" y="410" w="227" h="58" measuredW="227" measuredH="58" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C382%2C140%2C427%22%20href%3D%22Recents.bmml%22%20alt%3D%22Recents%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22143%2C382%2C198%2C427%22%20href%3D%22Wallet.bmml%22%20alt%3D%22Wallet%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C382%2C251%2C427%22%20href%3D%22Profile.bmml%22%20alt%3D%22Profile%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C383%2C82%2C428%22%20href%3D%22Offers.bmml%22%20alt%3D%22Offers%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C382%2C140%2C427%22%20href%3D%22Recents.bmml%22%20alt%3D%22Recents%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22143%2C382%2C198%2C427%22%20href%3D%22Wallet.bmml%22%20alt%3D%22Wallet%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C382%2C251%2C427%22%20href%3D%22Profile.bmml%22%20alt%3D%22Profile%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C383%2C82%2C428%22%20href%3D%22Offers.bmml%22%20alt%3D%22Offers%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C382%2C140%2C427%22%20href%3D%22Recents.bmml%22%20alt%3D%22Recents%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22143%2C382%2C198%2C427%22%20href%3D%22Wallet.bmml%22%20alt%3D%22Wallet%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C382%2C251%2C427%22%20href%3D%22Profile.bmml%22%20alt%3D%22Profile%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C383%2C82%2C428%22%20href%3D%22Offers.bmml%22%20alt%3D%22Offers%22%20id%3D%224%22/%3E</map>
+        <override controlID="0" x="173" y="5" w="54" h="51"/>
+        <override controlID="1" x="57" y="12" w="-1" h="-1"/>
+        <override controlID="2" x="115" y="12" w="55" h="-1">
+          <color>15658734</color>
+        </override>
+        <override controlID="3" x="173" y="12" w="50" h="-1">
+          <color>0</color>
+        </override>
+        <override controlID="4" x="4" y="13" w="50" h="-1"/>
+        <override controlID="5" x="153" y="0" w="24" h="24"/>
+        <override controlID="6" x="0" y="9" w="227" h="47"/>
+        <override controlID="-1"/>
+        <src>./assets/Munch-Library.bmml#Tab%20Bar</src>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="67" y="146" w="227" h="26" measuredW="60" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="74" y="321" w="-1" h="-1" measuredW="215" measuredH="84" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*About%20to%20run%20out*%5CrUnder%2010%20redeems%20left%2C%20ON%0A*About%20to%20lapse*%5CrUnder%2024%20hours%20left%2C%20ON</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="72" y="302" w="-1" h="-1" measuredW="197" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remind%20me%20when%20my%20coupons%20are</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="74" y="256" w="-1" h="-1" measuredW="215" measuredH="39" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20Profile%2C%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="__group__" x="218" y="183" w="70" h="70" measuredW="70" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="70" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="38">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="5" y="5" w="60" h="60" measuredW="220" measuredH="220" zOrder="1" locked="false" isInGroup="38">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <src>./assets/Wikipedia_mobile_en.svg.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

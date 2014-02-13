@@ -1,0 +1,121 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="840" measuredH="700" mockupW="800" mockupH="660">
+  <controls>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="40" y="40" w="800" h="660" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wallet%20Portal%0Ahttp%3A//wallet.sg/</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="95" y="129" w="-1" h="-1" measuredW="62" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Wallet</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::ButtonBar" x="451" y="129" w="-1" h="-1" measuredW="372" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Campaigns%26bm%3BCampaigns.bmml%26bm%3BCampaigns.bmml%26bm%3BCampaigns.bmml%2CRewards%26bm%3BRewards.bmml%26bm%3BRewards.bmml%26bm%3BRewards.bmml%2CReports%26bm%3BReports.bmml%26bm%3BReports.bmml%26bm%3BReports.bmml%2CMembers%26bm%3BMembers.bmml%26bm%3BMembers.bmml%26bm%3BMembers.bmml%2CTransactions%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml%2CAccount%26bm%3BAccount.bmml%26bm%3BAccount.bmml%26bm%3BAccount.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22411%2C89%2C471%2C117%22%20href%3D%22Campaigns.bmml%22%20alt%3D%22Campaigns%22%20id%3D%2231_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22471%2C89%2C540%2C117%22%20href%3D%22Rewards.bmml%22%20alt%3D%22Rewards%22%20id%3D%2231_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22540%2C89%2C617%2C117%22%20href%3D%22Reports.bmml%22%20alt%3D%22Reports%22%20id%3D%2231_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22617%2C89%2C712%2C117%22%20href%3D%22Members.bmml%22%20alt%3D%22Members%22%20id%3D%2231_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22712%2C89%2C783%2C117%22%20href%3D%22Transactions.bmml%22%20alt%3D%22Transactions%22%20id%3D%2231_4%22/%3E%0A</map>
+        <selectedIndex>0</selectedIndex>
+        <size>12</size>
+        <text>Cards%2C%20Reports%2C%20Members%2C%20Transactions%2C%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::FieldSet" x="95" y="172" w="728" h="471" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cards</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="__group__" x="254" y="357" w="411" h="115" measuredW="411" measuredH="115" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Coupons%20-%20Store2%26bm%3BCoupons%20-%20Store2.bmml%26bm%3BCoupons%20-%20Store2.bmml%26bm%3BCoupons%20-%20Store2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22214%2C317%2C625%2C432%22%20href%3D%22Coupons%2520-%2520Store2.bmml%22%20alt%3D%22Coupons%20-%20Store2%22%20id%3D%2272%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="411" h="115" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="72">
+          <controlProperties/>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="24" w="-1" h="-1" measuredW="124" measuredH="33" zOrder="1" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>Value%20Card</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhone" x="344" y="0" w="52" h="115" measuredW="282" measuredH="510" zOrder="2" locked="false" isInGroup="72">
+          <controlProperties>
+            <bgPattern>allWhite</bgPattern>
+            <orientation>portrait</orientation>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="57" w="-1" h="-1" measuredW="153" measuredH="21" zOrder="3" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>A%20card%20with%20a%20stored%20value</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="74" controlTypeID="__group__" x="254" y="231" w="411" h="115" measuredW="411" measuredH="115" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Coupon%20-%20Singleuse%26bm%3BCoupon%20-%20Singleuse.bmml%26bm%3BCoupon%20-%20Singleuse.bmml%26bm%3BCoupon%20-%20Singleuse.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22214%2C191%2C625%2C306%22%20href%3D%22Coupon%2520-%2520Singleuse.bmml%22%20alt%3D%22Coupon%20-%20Singleuse%22%20id%3D%2274%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="411" h="115" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="74"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="19" w="-1" h="-1" measuredW="194" measuredH="33" zOrder="1" locked="false" isInGroup="74">
+          <controlProperties>
+            <text>Single%20-%20Use%20Card</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhone" x="345" y="2" w="52" h="109" measuredW="282" measuredH="510" zOrder="2" locked="false" isInGroup="74">
+          <controlProperties>
+            <bgPattern>allWhite</bgPattern>
+            <orientation>portrait</orientation>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="52" w="-1" h="-1" measuredW="190" measuredH="21" zOrder="3" locked="false" isInGroup="74">
+          <controlProperties>
+            <text>A%20card%20for%20promotions%20and%20offers</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="76" controlTypeID="__group__" x="254" y="491" w="411" h="115" measuredW="411" measuredH="115" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="411" h="115" measuredW="411" measuredH="115" zOrder="0" locked="false" isInGroup="76">
+          <controlProperties>
+            <href>Coupons%20-%20Store1%26bm%3BCoupons%20-%20Store1.bmml%26bm%3BCoupons%20-%20Store1.bmml%26bm%3BCoupons%20-%20Store1.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22214%2C451%2C625%2C566%22%20href%3D%22Coupons%2520-%2520Store1.bmml%22%20alt%3D%22Coupons%20-%20Store1%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="411" h="115" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties/>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="15" y="24" w="-1" h="-1" measuredW="124" measuredH="33" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Store%20Card</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhone" x="344" y="0" w="52" h="115" measuredW="282" measuredH="510" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <bgPattern>allWhite</bgPattern>
+                <orientation>portrait</orientation>
+                <topBar>false</topBar>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="57" w="-1" h="-1" measuredW="204" measuredH="21" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>A%20card%20with%20a%20stored%20number%20of%20use</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="278" y="195" w="-1" h="-1" measuredW="362" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-All%20cards%20will%20be%20available%20for%20issue%20in%20business%20app%20upon%20creation-</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

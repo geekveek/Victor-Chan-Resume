@@ -1,0 +1,37 @@
+Food directory
+Customer management
+Statistics report
+
+Which features are important for first version?
+
+Restaurant - Details, Rate + Review, Menu
+
+Food item - Like/dislike, recommend (if tried)
+
+Use Cases:
+
+User should be able to explore the food directory (see details, call, location, details, menu item etc)
+
+User should be able to recommend food that he has eaten before
+
+User should be able to receive recommendation from other users.
+
+User should be able to like food on the menu that he has tried before 
+
+User should be able to view the likes of the menu item
+
+User should be able to see the food according to category
+
+User should be able to order food from the app (show barcode to scan by the waiter)
+
+User should be able to see the points from the stores that he visited before
+
+Users should be able to redeem the points from the stores that he visited before
+
+Users should be able to view all claimed, active and available offers from the stores he visited before
+
+Users should be able to redeem offers available to him
+
+Users should be able to feedback about the restaurant after paying for the food
+
+Users should be rewarded for the feedbacks that they give base on the points that they receive.

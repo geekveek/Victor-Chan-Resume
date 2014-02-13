@@ -1,0 +1,217 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="840" measuredH="700" mockupW="800" mockupH="660">
+  <controls>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="40" y="40" w="800" h="660" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wallet%20Portal%0Ahttp%3A//wallet.sg/</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="95" y="129" w="-1" h="-1" measuredW="62" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Wallet</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::FieldSet" x="95" y="172" w="728" h="471" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Store%20Card</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="209" w="-1" h="-1" measuredW="212" measuredH="33" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Untitled%20Store%20Card</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::iPhone" x="566" y="217" w="208" h="381" measuredW="282" measuredH="510" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Canvas" x="586" y="321" w="167" h="40" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Label" x="586" y="322" w="167" h="20" measuredW="76" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Kool%20Tea</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="586" y="296" w="167" h="19" measuredW="38" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Info</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Button" x="685" y="322" w="69" h="20" measuredW="93" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Outlet-Coupons-Unfollow%26bm%3BOutlet-Coupons-Unfollow.bmml%26bm%3BOutlet-Coupons-Unfollow.bmml%26bm%3BOutlet-Coupons-Unfollow.bmml</href>
+        <icon>CheckMarkIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22645%2C282%2C714%2C302%22%20href%3D%22Outlet-Coupons-Unfollow.bmml%22%20alt%3D%22Outlet-Coupons-Unfollow%22%20id%3D%2272%22/%3E</map>
+        <text>Following</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::PointyButton" x="589" y="296" w="42" h="-1" measuredW="57" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>Wallet%26bm%3BWallet.bmml%26bm%3BWallet.bmml%26bm%3BWallet.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22549%2C256%2C591%2C283%22%20href%3D%22Wallet.bmml%22%20alt%3D%22Wallet%22%20id%3D%2275%22/%3E</map>
+        <text>Wallet</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Component" x="587" y="493" w="167" h="55" measuredW="167" measuredH="55" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22589%2C462%2C630%2C507%22%20href%3D%22Recents.bmml%22%20alt%3D%22Recents%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22632%2C462%2C673%2C507%22%20href%3D%22Wallet.bmml%22%20alt%3D%22Wallet%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22675%2C462%2C712%2C507%22%20href%3D%22Profile.bmml%22%20alt%3D%22Profile%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22550%2C463%2C587%2C508%22%20href%3D%22Offers.bmml%22%20alt%3D%22Offers%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22589%2C462%2C630%2C507%22%20href%3D%22Recents.bmml%22%20alt%3D%22Recents%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22632%2C462%2C673%2C507%22%20href%3D%22Wallet.bmml%22%20alt%3D%22Wallet%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22675%2C462%2C712%2C507%22%20href%3D%22Profile.bmml%22%20alt%3D%22Profile%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22550%2C463%2C587%2C508%22%20href%3D%22Offers.bmml%22%20alt%3D%22Offers%22%20id%3D%224%22/%3E</map>
+        <override controlID="0" x="86" y="4" w="40" h="38"/>
+        <override controlID="1" x="42" y="9" w="41" h="45"/>
+        <override controlID="2" x="85" y="9" w="41" h="45"/>
+        <override controlID="3" x="128" y="9" w="37" h="45"/>
+        <override controlID="4" x="3" y="10" w="37" h="45"/>
+        <override controlID="5" x="113" y="0" w="18" h="18"/>
+        <override controlID="6" x="0" y="7" w="167" h="35"/>
+        <override controlID="-1"/>
+        <src>../../munch/App/assets/Munch-Library.bmml#Tab%20Bar</src>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="__group__" x="589" y="342" w="162" h="79" measuredW="162" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties/>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="57" w="162" h="22" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="77">
+          <controlProperties>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="3" y="59" w="156" h="18" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="77">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="3" y="59" w="55" h="18" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="77">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15110456</color>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="58" y="61" w="86" h="16" measuredW="83" measuredH="18" zOrder="12" locked="false" isInGroup="77">
+          <controlProperties>
+            <align>left</align>
+            <color>16777215</color>
+            <size>11</size>
+            <text>2%20set%20meals%20left</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="4" w="162" h="75" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="77"/>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::RoundButton" x="7" y="7" w="24" h="24" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="77">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::RoundButton" x="38" y="7" w="24" h="24" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="77">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::RoundButton" x="69" y="7" w="24" h="24" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="77">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::RoundButton" x="99" y="7" w="24" h="24" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="77">
+          <controlProperties>
+            <text>%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::RoundButton" x="130" y="7" w="24" h="24" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="77">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::Image" x="0" y="1" w="37" h="37" measuredW="200" measuredH="200" zOrder="9" locked="false" isInGroup="77">
+          <controlProperties>
+            <src>../../munch/App/assets/stamp3.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="31" y="0" w="37" h="37" measuredW="200" measuredH="200" zOrder="10" locked="false" isInGroup="77">
+          <controlProperties>
+            <src>../../munch/App/assets/stamp3.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="62" y="0" w="37" h="37" measuredW="200" measuredH="200" zOrder="11" locked="false" isInGroup="77">
+          <controlProperties>
+            <src>../../munch/App/assets/stamp3.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="7" y="28" w="126" h="17" measuredW="60" measuredH="18" zOrder="13" locked="false" isInGroup="77">
+          <controlProperties>
+            <bold>true</bold>
+            <color>0</color>
+            <size>11</size>
+            <text>Store%20Card</text>
+            <textOrientation>right</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="6" y="43" w="133" h="16" measuredW="151" measuredH="18" zOrder="14" locked="false" isInGroup="77">
+          <controlProperties>
+            <size>11</size>
+            <text>free%20drink%20with%20every%20set%20meal</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::TextArea" x="310" y="300" w="199" h="96" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Free%20drink%20with%20every%20set%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="157" y="300" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Image" x="310" y="414" w="199" h="79" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="157" y="414" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Background%20picture</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="157" y="259" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Initial%20quantity%20in%20card</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::TextArea" x="443" y="256" w="66" h="26" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::ButtonBar" x="451" y="129" w="-1" h="-1" measuredW="372" measuredH="28" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Coupons%26bm%3BCoupons.bmml%26bm%3BCoupons.bmml%26bm%3BCoupons.bmml%2CRewards%26bm%3BRewards.bmml%26bm%3BRewards.bmml%26bm%3BRewards.bmml%2CReports%26bm%3BReports.bmml%26bm%3BReports.bmml%26bm%3BReports.bmml%2CMembers%26bm%3BMembers.bmml%26bm%3BMembers.bmml%26bm%3BMembers.bmml%2CTransactions%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml%26bm%3BTransactions.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22411%2C89%2C471%2C117%22%20href%3D%22Coupons.bmml%22%20alt%3D%22Coupons%22%20id%3D%2290_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22471%2C89%2C540%2C117%22%20href%3D%22Rewards.bmml%22%20alt%3D%22Rewards%22%20id%3D%2290_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22540%2C89%2C617%2C117%22%20href%3D%22Reports.bmml%22%20alt%3D%22Reports%22%20id%3D%2290_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22617%2C89%2C712%2C117%22%20href%3D%22Members.bmml%22%20alt%3D%22Members%22%20id%3D%2290_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22712%2C89%2C783%2C117%22%20href%3D%22Transactions.bmml%22%20alt%3D%22Transactions%22%20id%3D%2290_4%22/%3E%0A</map>
+        <selectedIndex>0</selectedIndex>
+        <size>12</size>
+        <text>Cards%2C%20Reports%2C%20Members%2C%20Transactions%2C%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Button" x="310" y="528" w="-1" h="-1" measuredW="71" measuredH="29" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Coupons%26bm%3BCoupons.bmml%26bm%3BCoupons.bmml%26bm%3BCoupons.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22270%2C488%2C341%2C517%22%20href%3D%22Coupons.bmml%22%20alt%3D%22Coupons%22%20id%3D%2291%22/%3E</map>
+        <size>20</size>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Button" x="445" y="529" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
