@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" measuredW="523" measuredH="530" mockupW="463" mockupH="510">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/Android%20Controls.bmml#Droid%20Phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="152" w="228" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="86" y="122" w="228" h="31" measuredW="91" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>18</size>
+        <text>Reminders</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::IconLabel" x="100" y="157" w="-1" h="-1" measuredW="121" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PlusBigIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <text>Add%20Reminder</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="189" w="221" h="-1" measuredW="100" measuredH="5" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="100" y="196" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Today</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="189" w="221" h="-1" measuredW="100" measuredH="5" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="217" w="221" h="-1" measuredW="100" measuredH="5" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="255" w="221" h="-1" measuredW="100" measuredH="5" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="100" y="262" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upcoming</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="283" w="221" h="-1" measuredW="100" measuredH="5" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="322" w="221" h="-1" measuredW="100" measuredH="5" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Icon" x="94" y="225" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>StopIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Paragraph" x="94" y="288" w="200" h="45" measuredW="200" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Panadol%0AEveryday%2C%202pm%2C%205pm%20and%2010pm</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Paragraph" x="118" y="225" w="200" h="45" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Panadol%20-%202%20pills%0A2pm</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::DataGrid" x="397" y="211" w="126" h="147" measuredW="66" measuredH="139" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <hasHeader>false</hasHeader>
+        <rowHeight>44</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <text>Edit%0ARemove%0ACancel</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

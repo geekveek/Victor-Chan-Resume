@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" measuredW="546" measuredH="530" mockupW="486" mockupH="510">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/Android%20Controls.bmml#Droid%20Phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="152" w="228" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="86" y="122" w="228" h="31" measuredW="126" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>18</size>
+        <text>Blood%20Pressure</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::IconLabel" x="100" y="157" w="-1" h="-1" measuredW="134" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PlusBigIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <text>Add%20Test%20Result</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="189" w="221" h="-1" measuredW="100" measuredH="5" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::LineChart" x="88" y="196" w="221" h="109" measuredW="187" measuredH="175" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::DataGrid" x="103" y="320" w="199" h="124" measuredW="103" measuredH="181" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>16777215</alternateRowColor>
+        <color>14803425</color>
+        <hLines>true</hLines>
+        <rowHeight>26</rowHeight>
+        <text>Date%2C%20Amount%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::DataGrid" x="420" y="214" w="126" h="147" measuredW="66" measuredH="139" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <hasHeader>false</hasHeader>
+        <rowHeight>44</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <text>Edit%0ARemove%0ACancel</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

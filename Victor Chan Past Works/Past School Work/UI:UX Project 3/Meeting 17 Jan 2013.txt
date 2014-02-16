@@ -1,0 +1,86 @@
+Meeting Agenda 17 Jan 2013
+
+1. Project in light of module requirement
+
+Prof Leow said that our project needs to be implementable, useful and complex enough. However, in his feedback during last semester's project presentation, he said that our project is most likely to not be implemented. In light of this, where should we go on from here? Shall we a. change project but still based around the the same theme (e.g. appointment setting, interface for patients, ERM for clinics...), b. scale our project down (maybe just do one part of the system, perhaps just for prescription, adapt the Sunrise system for iPad) or c. continue with our current project (changing the interface to make it more user friendly). With c, i think the system may not be complex enough for the module requirement. But because our access to the hospital database is very limited, we can't really build a complex system that includes the hospital database.
+
+2. Plan from here
+
+W1 
+- Finalize user requirements
+- System architect, ERD class and database (class, attribute, relationship, methods, class diagram), General system diagram for each of the 5 use cases, scenarios and structure of the system. 
+- Settle on the language, platform, development environment, SVC. 
+- Breakdown of project into modules
+- Write specifications of modules
+- Delegate modules to be coded.
+- Breakdown of tasks to be completed by end of W2
+- Write stories into a project management site (pivotaltracker)
+* When coding individual modules, remember to do unit testing. When integrating onto SVC, do integration test.
+- Complete document of refinement of requirement and refinement of system design
+
+W2-W12
+- Meet to review stories that are done
+- Meet to delegate stories to be done by the week
+- Code individual modules
+- Unit test on modules, integration test
+
+3. Where do we go from here
+- Next meeting?
+- Deliverables by next meeting?
+- Actionable tasks and delegated to whom?
+
+4. AOM
+
+---
+
+Minutes 17 Jan 2013
+
+Change of requirement:
+Patient interface on mobile (android tablets)
+Incremental features
+Outpatients with regular checkups
+
+Meet every monday, 2pm
+
+Requirements
+* Medical records (Mother of all history - reference)
+- Doctor's name
+- Date/time of last 
+- Doctor's notes
+- Prescription
+- Multimedia data (i/c X-rays, ultra sound…)
+- Test (blood, urine etc)
+- Track medication
+* Next Appointment (function/communication)
+- (Date/Time, location, precautions/notes, …)
+- New, edit, view delete
+* Self test results (communication/reference)
+- Blood
+- Test results
+* Track medication (function)
+- Day/time
+- Med name
+- Med details
+* Messages (communication)
+- Notification
+
+8 classes - Patient, doctor, appointment, patient history, multimedia database, inbox, self test, medication)
+* future project, to connect self testing with the tablet
+Use Cases for patient
+
+Platform - Android tablet Jelly Bean, Java, Github, 
+
+Clerk interface to accept requests etc.
+
+Quality over quantity - less features, but more quality
+Divide into 4 verticals, and do own part (Design, Backend, Frontend, )
+Parallel designing prototype front-end and developing back-end
+
+
+TODO:
+Meet with Prof Leow to discuss about our project - Violet
+
+System architect 
+- Class diagram - ERD class and database (class, attribute, relationship, methods, class diagram),  - Huishan, Christopher
+- General system diagram for each of the 5 use cases, - Victor
+- scenarios - Victor

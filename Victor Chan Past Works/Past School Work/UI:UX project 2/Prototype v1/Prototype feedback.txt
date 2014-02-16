@@ -1,0 +1,25 @@
+
+## General
+* Tab at the bottom, "Orders, New Order and Profile", New Order button big ass!
+* Need a home page (use huining's, under orders)
+* After ordering...
+	* No prompt to collecting (ready for collection (use huining's))
+	* Ready -> ready to be collected
+	* Done -> collected
+## Orders
+* use huining's current orders interface
+* use estimated time instead of countdown timer for estimated time
+* Missing verification page, auntie need to see
+## New Order
+* mulitple order and viewing of order
+* Remove logo, put top bar, next previous button, add in title for "select ingredients", "select noodles/rice", "select soup"
+* remove tab view, instead have a wizard/tunnel with back/next button
+* When tap new order when an order is still being created, prompt saying to discard current order
+* Cancel order after confirmation [with/without refund]
+
+## Profile
+
+* Create account and login
+* Use victor's profile for "profile"" and top up
+* Save user's credit card/paypal details. When user wants to top up, prompt for password (app password)
+* Use huishan's one for transaction history

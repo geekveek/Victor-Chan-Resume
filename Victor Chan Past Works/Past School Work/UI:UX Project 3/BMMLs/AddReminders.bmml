@@ -1,0 +1,114 @@
+<mockup version="1.0" skin="sketch" measuredW="900" measuredH="530" mockupW="840" mockupH="510">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="60" y="20" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/Android%20Controls.bmml#Droid%20Phone</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="152" w="228" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="86" y="122" w="228" h="31" measuredW="127" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>18</size>
+        <text>Add%20Reminders</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Component" x="109" y="267" w="172" h="27" measuredW="172" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="172" h="27">
+          <text>At%203pm</text>
+        </override>
+        <src>$ACCOUNT/assets/Android%20Controls.bmml#Text%20Input</src>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Component" x="109" y="170" w="172" h="27" measuredW="172" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Panadol</text>
+        </override>
+        <src>$ACCOUNT/assets/Android%20Controls.bmml#Text%20Input</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="109" y="238" w="172" h="27" measuredW="172" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Every%20day</text>
+        </override>
+        <src>$ACCOUNT/assets/Android%20Controls.bmml#Text%20Input</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextInput" x="109" y="341" w="172" h="-1" measuredW="66" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remarks</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="391" w="226" h="-1" measuredW="100" measuredH="5" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::VRule" x="199" y="396" w="-1" h="44" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="88" y="403" w="111" h="31" measuredW="67" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>20</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="199" y="403" w="111" h="31" measuredW="41" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>20</size>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="109" y="217" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>When</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::DataGrid" x="561" y="112" w="-1" h="-1" measuredW="76" measuredH="307" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <selectedIndex>-1</selectedIndex>
+        <text>1%2C%20day%0A2%2C%20week%0A3%2C%20month%0A4%2C%20year%0A5%0A6%0A7%0A8%0A9%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::StickyNote" x="688" y="388" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Picker%20to%20choose%20repeat%20frequency</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::DataGrid" x="675" y="110" w="-1" h="-1" measuredW="86" measuredH="217" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <selectedIndex>-1</selectedIndex>
+        <text>Sunday%0AMonday%0ATuesday%0AWednesday%0AThursday%0AFriday%0ASaturday</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Paragraph" x="109" y="197" w="200" h="20" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Take%202%20pills%20two%20times%20daily</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::DataGrid" x="802" y="110" w="-1" h="-1" measuredW="98" measuredH="367" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <selectedIndex>-1</selectedIndex>
+        <text>1%2C%2000%2C%20am%0A2%2C%2001%2C%20pm%0A3%2C%2002%0A4%2C%2003%0A5%2C%2004%0A6%2C%2005%0A7%2C%2006%0A8%2C%2007%0A9%2C%2008%0A10%2C%2009%0A11%2C%2010%0A12%2C%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Component" x="109" y="297" w="172" h="27" measuredW="172" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="172" h="27">
+          <text>Add%20another%20reminder%20time</text>
+        </override>
+        <src>$ACCOUNT/assets/Android%20Controls.bmml#Text%20Input</src>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::DataGrid" x="409" y="110" w="-1" h="-1" measuredW="86" measuredH="127" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <selectedIndex>-1</selectedIndex>
+        <text>Panadol%0APanacitamol%0AMedicine%202%0AMedicine%203</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

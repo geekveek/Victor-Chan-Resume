@@ -1,0 +1,76 @@
+This user guide assumes that the reader is familiar with iOS development.
+
+Constants.h
+This class contains all the constants that are used in this application. This consists mainly of keys used in the dictionary within the application. Most of the data that is used and store within this application is a native dictionary data type. The purpose of this is to allow easy storage into the user defaults as the user defaults only accepts a limited amount of data types.
+prefixes that starts with:
+PATIENT - This is used to refer to information from a patient dictionary.
+MEDICAL_RECORD -  - This is used to refer to information from a medical record dictionary.
+REMINDER - This is used to refer to information from a reminder dictionary.
+APPOINTMENT - This is used to refer to information from an appointment dictionary.
+DOCTOR - This is used to refer to information from a doctor dictionary.
+DEPARTMENT - This is used to refer to information from a department dictionary.
+
+View Controllers
+
+Login View Controller.h/.m
+This view controller controls the login view. When the user signs in, the signin method will check if all the fields are field. If they are not filled, the first unfilled field will become active. If all the fields are field, the function would ask the connectionManager to ask the server if the username and password is correct. Once the server get the result, it would send back result as a delegate call to this view controller. If the result fails, the user will be notified. If the result passes, it will dismiss the login view. 
+
+Profile Table View Controller.h/.m
+This view controller controls the profile view. When it appears, it will call the mainDataManager to check if the app is signed in. If it is not signed it, it will show the login view as stated above. Else, it would call the mainDataManager to get the profile information and the medical record and update the view with the respective data. If the user taps on Sign Out button, the -(IBAction) signOut:(UIBarButtonItem *)sender will be called. The refresh control in this class refers to the "Pull down to refresh" function and it will call -(void)updateView whenever it is activated.
+
+Medical Record Table View Controller.h/m
+The medical record table view controller controls the medical record view. It uses similar refresh controls to refresh the medical record. It also checks if the application is signed in from the mainDataManager. Subsequently, it also calls the mainDataManager to get the medical records to be displayed onto the table.
+
+Medical Record Detail View Controller.h/.m
+This is a simple medical record detail view controller that controls the medical record detail view. It is responsible for displaying the doctor's note within the medical record view.
+
+Reminder Cell.h/.m
+This controls the cell for the reminder. It has two public varibales, isChecked and reminder. The variable isChecked determines if the reminder is checked or not, and reminder is the reminder data that the reminder cell is displaying.
+
+Reminders Table View Controller.h/.m
+This controls the reminders table view. It calls the mainDataManager for the existing reminder and is updated whenever the view appears. The delegate method - (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath is for the swipe horizontally to delete
+
+Reminder Detail Table View Controller.h/.m
+This view controller controls the reminder detail. It will be updated and refreshed from the mainDataManager with the reminder ID when the view would appear. The edit button will cause the add edit reminder table view controller to be pushed into the navigationController and set the isEditMode to be YES so that the controller knows that it is in edit mode.
+
+Add Edit Reminder Table View Controller.h/.m
+This view controller controls the view to add and edit the reminder. The save function links to - (IBAction)saveButtonPressed:(id)sender and that function would send the reminder dictionary to the mainDataManager.
+
+Reminder Frequency Table View Controller.h/.m
+This sets the frequency for the reminder in add edit reminder table view controller
+
+Appointment Cell.h/.m
+This controls the appointment cell. Basically it allows the table cell to store a data regarding that cell so that the developer could pass information through the cell through -(void) prepareForSegue:(UIStoryboardSegue *)segue sender:(id) sender, with the sender variable as the cell.
+
+Appointments Table View Controller.h/.m
+This shows the list of appointments that the user is confirmed for, pending and previous appointments. The class gets the data from mainDataManager and displays them in the respective sections. From here, they are able to go to view the appointment details, by tapping on the cell and - (void) prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender will be called and send the information to Appointment Details Table View Controller. When the + button is tapped, the - (void) prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender will be called and the destination isEditMode will be set to NO. This tells the Add Edit Appointment Table View Controller that the view controller is in add mode, not edit mode. 
+
+Appointment Detail Table View Controller.h/.m
+This view controller controls the appointment detail. It will be updated and refreshed from the mainDataManager with the appointment ID when the view would appear. The edit button will cause the add edit appointment table view controller to be pushed into the navigationController and set the isEditMode to be YES so that the controller knows that it is in edit mode.
+
+Add Edit Appointment Table View Controller.h/.m
+This view controller controls the view to add and edit the appointment. The save function links to - (IBAction)saveButtonPressed:(id)sender and that function would send the appointment dictionary to the mainDataManager.
+
+Department Doctor Table View Controller.h/.m
+This allows the user to choose the doctor and department of the add edit appointment table view. It gets the list of doctors and departments from the mainDataManager and displays the data 
+
+Date Time View Controller.h/.m
+This view controller controls the date and time picker for the add edit appointment table view. It is designed such that the user will not be able to pick a time before today.
+
+Main Data Manager.h/.m
+This is the modal for the view controllers. It gets the data from either the internal memory, or from the server, depending on the type of information requested. For those data that requires internet connection, the view controller that requests for the information has to be a delegate of this manager. These functions are usually marked with the return type void, under the #pragma mark Requests for Data.
+
+Connection Manager.h/.m
+
+VC Singleton.h
+This simply makes a singleton with the singletonname out of any class.
+e.g. to use it, add 'SINGLETON(<the name of the singleton you want to use)' into the code. when you call the singleton, use [ClassName singletonName] to refer to the singleton.
+
+VC Url Request.h/.m
+This is a helper function that sends HTTP POST and GET requests through the class methods.
+
+JSON Kit.h/.m
+This is an open-source JSON Kit category that adds JSON functions on top of the native NSData datatype. The source file can be downloaded from http://github.com/johnezang/JSONKit
+
+MBProgressHUD.h/.m
+This is an open-source MBProgressHUD. It is not used within this application, but as a tool for further development, this displays a HUD that shows either a message, or activity indicator or image with an optional message. It is used in VCUrlRequest and if the view controller is passed into the VCUrlRequest class, it will show the activity indicator above the view that the view controller is controlling. The source file can be downloaded from https://github.com/jdg/MBProgressHUD

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Blue Cheese: A Cat and Mouse Game - User Guide</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+<script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=3.3"></script>	
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+
+</head>
+
+<body>
+<div id="header">
+	<div id="logo"><a href="#"><img src="images/logo.png"></a></div>
+	<ul id="main-menu">
+    	<li><a href="#install">Install Instructions</a></li>
+        <li><a href="#instruct">User Instructions</a></li>
+    </ul>
+</div>
+
+<div id="container">
+
+<!--Begin Experience Section-->
+	<div id="install">
+    <div id="experience">
+    	<h1>Installation Instructions</h1>
+        <div class="top-divider"></div>
+        <div class="content">
+			<p>Double click on the .exe file and you're ready to play!<br/>
+			Download the game now! <a href="">Windows</a> | <a href="">Mac</a></p>
+			
+			<p><i>This game project is built for educational, non-commercial purpose. For personal use only. May contain copyrighted
+			materials.<br/>
+			No copyright infringement intended. All copyrighted materials belong to the respective copyright holders.</i></p>
+        </div>    
+        <div class="bottom-divider"></div>
+    </div>
+	</div>
+<!--End Experience Section-->
+
+<!--Begin Experience Section--> 
+	<div id="instruct">
+    <div id="experience">
+    	<h1>User Instructions</h1>
+        <div class="top-divider"></div>
+        <div class="content">
+			<h2>Goal of the game</h2>
+			<p>Get more points than the mouse before the time runs out to win. Earn points by killing the mouse.</p>
+			
+            <div class="col">
+            <h2>Controls: Movement</h2>
+			<p>WASD => Up, Left, Down, Right<br/>
+			Mouse => Look-At direction</p>
+            </div>
+            
+            <div class="col col-mid">
+            <h2>Control: Weapon's Control</h2>
+			<p>Left Mouse Button => Shoot<br/>
+			Spacebar/Right Mouse Button => Set trap</p>
+            </div>
+            
+            <div class="col">
+            <h2>Artifacts</h2>
+			<p>Crates => Collect resources for trap. Each crate contains enough materials for one trap.<br/>
+			Traps => Traps the mouse in the trap. The mouse becomes a vulnerable target.</p>
+            </div>
+			
+			<p><b>Have fun playing the game!</b></p>
+        </div>
+		
+        <div class="bottom-divider"></div>
+    </div>
+	</div>
+<!--End Experience Section--> 
+
+</div>
+
+ <!-- The JavaScript -->  
+        <script type="text/javascript">
+    		$(function() {
+                $('#main-menu li a').bind('click',function(event){
+                    var $anchor = $(this);
+                    
+                    $('html, body').stop().animate({
+                        scrollTop: $($anchor.attr('href')).offset().top
+                    }, 1500,'easeInOutExpo');
+
+                    event.preventDefault();
+                });
+            });
+			
+ 			 $(document).ready(function(){
+    		$("a[rel^='prettyPhoto']").prettyPhoto({social_tools:false, deeplinking: false});
+  			});
+
+        </script>
+</body>
+</html>
